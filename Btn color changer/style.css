@@ -1,0 +1,23 @@
+.flex-box-pick-color {
+    display: flex;
+    border: 1px solid black;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 10px;
+    flex-direction: row;
+    background-color: white;
+}
+
+
+.container-2 {
+    /* display: flex; */
+    border: 1px solid black;
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    justify-content: space-around; 
+    /* flex-wrap: wrap;
+    flex-direction: row; 
+    background-color: orange;*/
+}
